@@ -1,5 +1,5 @@
 # Transformer-Text-Coherence
- Fine-Tuning Five Types of Transformers on the GCDC Dataset for Coherence Evaluation and Incorporating Syntactic Features into BERT for Coherence Measurement
+ Fine-Tuning Five Types of Transformers on the GCDC Dataset and Incorporating Syntactic Features into BERT for Coherence Evaluation
  
 ## Models
 **Bertsem**: a fine-tuned version of the original BERT model.<br/>
